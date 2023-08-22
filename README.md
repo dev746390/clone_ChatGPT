@@ -7,25 +7,15 @@
   <p>
 ChatGPT Clone with REACT! (Next.js 13, Firebase, Tailwind CSS, TypeScript, API endpoints in Next.js, ChatGPT models, Dynamic page routing in Next.js 13, App folder structure, NextAuth.js, Google Authentication).
   </p>
-  
-  
-<!-- Badges -->
-
-<a href="https://chatgpt-sclone.vercel.app" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
-![](https://img.shields.io/badge/Maintained-Yes-indigo)
-![](https://img.shields.io/github/forks/SashenJayathilaka/ChatGPT-Clone.svg)
-![](https://img.shields.io/github/stars/SashenJayathilaka/ChatGPT-Clone.svg)
-![](https://img.shields.io/github/issues/SashenJayathilaka/ChatGPT-Clone)
-![](https://img.shields.io/github/last-commit/SashenJayathilaka/ChatGPT-Clone)
 
 <h4>
     <a href="https://chatgpt-sclone.vercel.app">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/ChatGPT-Clone/blob/master/README.md">Documentation</a>
+    <a href="https://github.com/dev746390/ChatGPT-Clone/blob/master/README.md">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/ChatGPT-Clone/issues">Report Bug</a>
+    <a href="https://github.com/dev746390/ChatGPT-Clone/issues">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/ChatGPT-Clone/issues">Request Feature</a>
+    <a href="https://github.com/dev746390/ChatGPT-Clone/issues">Request Feature</a>
   </h4>
 </div>
 
@@ -215,7 +205,7 @@ Add the `@tailwind` directives for each of Tailwind’s layers to your `./styles
 
 Install dependencies
 
-<a href="https://github.com/SashenJayathilaka/ChatGPT-Clone/blob/master/package.json" target="_blank">🔶 Other Dependency Info</a>
+<a href="https://github.com/dev746390/ChatGPT-Clone/blob/master/package.json" target="_blank">🔶 Other Dependency Info</a>
 
 <!-- Run Locally -->
 
@@ -224,7 +214,7 @@ Install dependencies
 Clone the project
 
 ```bash
-  git clone https://github.com/SashenJayathilaka/ChatGPT-Clone.git
+  git clone https://github.com/dev746390/ChatGPT-Clone.git
 ```
 
 ```bash
@@ -276,9 +266,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## :handshake: Contact
 
-Your Name - [@twitter_handle](https://twitter.com/SashenHasinduJ) - sashenjayathilaka95@gmail.com
-
-Project Link: [https://github.com/SashenJayathilaka/ChatGPT-Clone.git](https://github.com/SashenJayathilaka/ChatGPT-Clone.git)
+Project Link: [https://github.com/dev746390/ChatGPT-Clone.git](https://github.com/dev746390/ChatGPT-Clone.git)
 
 <hr />
 
